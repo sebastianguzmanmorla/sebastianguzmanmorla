@@ -38,6 +38,6 @@ Soy un apasionado Desarrollador de Software con más de 11 años de experiencia 
 
 ## Contáctame
 
-¡Estoy emocionado por nuevas oportunidades y desafíos! Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/sebastián-guzmán-morla-083220a5/) para discutir colaboraciones o proyectos interesantes.
+Estoy entusiasmado para tener nuevos desafíos y oportunidades para seguir creciendo profesionalmente. Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/sebastián-guzmán-morla-083220a5/)
 
 ¡Gracias por visitar mi perfil! 🚀
