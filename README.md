@@ -1,4 +1,4 @@
-# ¡Hola, soy [Sebastián Guzmán Morla]! 👋
+# ¡Hola, soy Sebastián Guzmán Morla! 👋
 
 Soy un apasionado Desarrollador de Software con más de 11 años de experiencia en el campo, mi enfoque proactivo y autodidacta me ha permitido adaptarme a las distintas necesidades del mercado del desarrollo de software.
 
