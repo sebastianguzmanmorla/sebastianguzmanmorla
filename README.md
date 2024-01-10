@@ -10,6 +10,15 @@ Soy un apasionado Desarrollador de Software con más de 11 años de experiencia 
 - Desarrollo DevOps y Continuous Integration
 - Métodos ágiles y enfoques iterativos
 
+## Idiomas
+
+- Inglés (Full Professional)
+- Español (Native or Bilingual)
+
+## Certificaciones
+
+- EFSET English Certificate 75/100 (C2 Proficient)
+
 ## Experiencia Profesional
 
 ### Software Developer en VT Systems
@@ -26,15 +35,6 @@ Soy un apasionado Desarrollador de Software con más de 11 años de experiencia 
 - Diseñador Líder de arquitectura de software para back-end API y aplicaciones móviles.
 - Administrador y desarrollador back-end API en .NET Core.
 - Administrador y desarrollador de aplicaciones móviles híbridas (Android e iOS) en Xamarin y .NET MAUI.
-
-## Idiomas
-
-- Inglés (Full Professional)
-- Español (Native or Bilingual)
-
-## Certificaciones
-
-- EFSET English Certificate 75/100 (C2 Proficient)
 
 ## Contáctame
 
